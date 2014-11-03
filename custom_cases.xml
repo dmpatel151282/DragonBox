@@ -1,0 +1,12 @@
+<CaseVersion fireware="homlet4.4.2-h8-v1.0rc1" display="eagle_aliyun_p1-eng 4.4.2 KOT49H 20140926 test-keys" model="OPENBASE_H8"></CaseVersion>
+<CaseLed></CaseLed>
+<CaseSpdif></CaseSpdif>
+<CaseVideo></CaseVideo>
+<CasePerformance></CasePerformance>
+<CaseUsbVolume></CaseUsbVolume>
+<CaseSDVolume></CaseSDVolume>
+<CaseEthernet></CaseEthernet>
+<CaseWifi  maxRSSI="-65" wifiSSID="PD1-test" wifiPWD="qwertyuiop"></CaseWifi>
+<CaseBluetooth></CaseBluetooth>
+<CaseHdmi></CaseHdmi>
+<CaseCvbs></CaseCvbs>
